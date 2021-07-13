@@ -128,6 +128,7 @@ export default {
         })
         .then((res) => {
           if (res.code === 200) {
+            // 数据累加
             this.alreadyList = this.alreadyList.concat(res.data.list);
             this.num2 = res.data.count;
           }
