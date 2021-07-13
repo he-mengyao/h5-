@@ -1,0 +1,49 @@
+2021-07-13 00:07:30,687 INFO 84144 [egg-logrotator] app logger reload: got log-reload message
+2021-07-13 01:11:41,356 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 01:11:41,366 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 01:21:52,323 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 01:21:52,326 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 03:00:51,947 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 03:00:51,954 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 03:09:48,298 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 03:09:48,302 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 03:26:28,614 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 05:58:29,250 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 05:58:29,271 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 05:58:29,484 INFO 84144 [-/127.0.0.1/-/138ms SCHEDULE /__schedule?path=/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/0p/1wqzfvj54n17c7sqpwrwv4gh0000gn/T/egg-multipart-tmp/server"
+2021-07-13 05:58:29,511 INFO 84144 [-/127.0.0.1/-/170ms SCHEDULE /__schedule?path=/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2021-07-13 06:09:15,208 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 06:09:15,220 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 07:00:08,099 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 07:00:08,103 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 07:04:35,546 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 07:04:36,326 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 07:27:53,826 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 07:27:53,826 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 07:39:29,874 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 07:39:30,645 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 07:55:10,542 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 07:55:10,543 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 08:10:11,541 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 08:10:11,541 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 08:25:12,543 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 08:25:12,543 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 08:34:53,530 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 08:34:53,531 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 09:08:18,972 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 09:08:18,974 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 09:51:19,816 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 09:51:19,816 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 12:23:56,304 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 12:23:56,306 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 12:49:20,098 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 12:49:20,099 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 12:52:22,971 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 12:52:22,972 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 13:29:27,536 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 13:29:27,537 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 13:33:20,499 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 13:33:20,500 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 15:48:47,732 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-13 15:48:47,740 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-13 15:53:10,049 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again

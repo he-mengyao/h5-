@@ -1,0 +1,9 @@
+2021-07-04 05:01:15,897 INFO 21503 [Job#16253460751241607469472491612] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2021-07-04 05:01:15,919 INFO 21503 [Job#16253460751241607469472491612] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 20ms. 
+2021-07-04 05:01:15,918 INFO 21502 [Timer] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 84524876ms at 2021-07-05 04:30:00.794
+2021-07-05 00:18:14,133 INFO 21503 [Job#16254154941142301657495365583] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js executing by app
+2021-07-05 00:18:14,163 INFO 21503 [Job#16254154941142301657495365583] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js execute succeed, used 27ms. 
+2021-07-05 00:18:14,165 INFO 21503 [Job#16254154941632301657939321633] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2021-07-05 00:18:14,170 INFO 21503 [Job#16254154941632301657939321633] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 4ms. 
+2021-07-05 00:18:14,163 INFO 21502 [Timer] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/clean_log.js next time will execute after 85305874ms at 2021-07-06 00:00:00.037
+2021-07-05 00:18:14,166 INFO 21502 [Timer] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-logrotator@3.1.0@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 85306835ms at 2021-07-06 00:00:01.001

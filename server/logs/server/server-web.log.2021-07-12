@@ -1,0 +1,30 @@
+2021-07-12 14:19:38,134 ERROR 84144 [-/127.0.0.1/-/15ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" (type Object) at path "cid" for model "ShopList"
+    at model.Query.exec (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+valueType: "Object"
+pid: 84144
+hostname: hemiao.local
+
+2021-07-12 14:20:59,122 ERROR 84144 [-/127.0.0.1/-/2ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" (type Object) at path "cid" for model "ShopList"
+    at model.Query.exec (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+valueType: "Object"
+pid: 84144
+hostname: hemiao.local
+

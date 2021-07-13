@@ -1,0 +1,12 @@
+2021-07-10 05:41:30,734 INFO 84144 [egg-logrotator] app logger reload: got log-reload message
+2021-07-10 07:30:07,123 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-10 07:30:07,124 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-10 17:45:01,413 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-10 17:45:01,413 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-10 18:00:09,095 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-10 18:00:09,098 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-11 03:49:13,136 WARN 84144 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-11 03:49:13,157 WARN 84144 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-11 03:49:13,168 INFO 84144 [egg-logrotator] clean all log before 31 days
+2021-07-11 03:49:13,170 INFO 84144 [egg-logrotator] broadcast log-reload
+2021-07-11 03:49:13,170 INFO 84144 [egg-logrotator] rotate files success by DayRotator, files ["/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/common-error.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/common-error.log.2021-07-10","/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/server-web.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/server-web.log.2021-07-10","/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-web.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-web.log.2021-07-10","/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-schedule.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-schedule.log.2021-07-10","/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-agent.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-agent.log.2021-07-10"]

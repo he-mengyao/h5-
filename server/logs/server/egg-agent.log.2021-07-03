@@ -1,0 +1,201 @@
+2021-07-03 00:34:10,585 INFO 21502 [egg-logrotator] agent logger reload: got log-reload message
+2021-07-03 02:22:19,288 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6489312ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 04:10:27,991 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6488582ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 05:58:36,992 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6488835ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 06:31:57,954 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 2000856ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 06:54:17,404 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 80315ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 07:18:26,620 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 1409201ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 08:02:09,360 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 602436ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 11:05:23,910 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 372373ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 11:47:09,931 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 2372110ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 12:20:42,728 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 1971222ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 12:57:12,956 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 2150211ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 13:49:50,961 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 3117983ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 14:00:25,182 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 594222ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 15:46:19,210 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 252477ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 15:59:22,470 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 783241ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 16:09:55,335 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 312032ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 16:15:00,959 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 64782ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 18:00:02,707 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 380212ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 18:23:59,177 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 615597ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 19:35:33,526 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 1159303ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 20:51:39,941 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 4565634ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 21:15:09,188 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 1409243ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 21:20:34,508 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 324343ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-03 22:42:44,736 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 4910127ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-04 00:30:54,679 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6489641ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+

@@ -1,0 +1,856 @@
+2021-07-08 02:48:28,898 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 6489356ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 04:36:38,796 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 6489754ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 06:24:48,781 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 6489937ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 07:15:06,736 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 3017857ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 07:25:37,782 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 630980ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 07:40:40,365 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 861789ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 07:55:42,362 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 841209ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 08:10:44,125 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 900997ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 08:20:41,771 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 597639ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 08:26:11,274 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 329496ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 08:28:07,034 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 75738ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 08:31:01,525 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 133706ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 09:32:14,602 ERROR 74187 [-/127.0.0.1/-/15ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 09:32:40,057 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 09:33:16,051 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 09:34:29,237 ERROR 74187 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 09:34:49,855 ERROR 74187 [-/127.0.0.1/-/1ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 09:35:49,704 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 09:37:39,187 ERROR 74187 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 10:43:39,625 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 10:49:05,184 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:03:43,208 ERROR 74187 [-/127.0.0.1/-/100ms POST /v1/order] nodejs.ValidationError: OrderList validation failed: mallPrice: Cast to Number failed for value "NaN" (type number) at path "mallPrice", order_list.0.count: Cast to Number failed for value "[ 2, 1 ]" (type Array) at path "count", order_list.0.mallPrice: Cast to Number failed for value "NaN" (type number) at path "mallPrice", order_list.1.count: Cast to Number failed for value "[ 2, 1 ]" (type Array) at path "count", order_list.1.mallPrice: Cast to Number failed for value "NaN" (type number) at path "mallPrice"
+    at model.Document.invalidate (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:2757:32)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1324:12)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1033:16)
+    at model.Document (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:148:12)
+    at model.Model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:105:12)
+    at new model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:4902:15)
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:223:25)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+errors: {"mallPrice":{"stringValue":"\"NaN\"","valueType":"number","kind":"Number","value":null,"path":"mallPrice","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"name":"CastError","message":"Cast to Number failed for value \"NaN\" (type number) at path \"mallPrice\""},"order_list.0.count":{"stringValue":"\"[ 2, 1 ]\"","valueType":"Array","kind":"Number","value":[2,1],"path":"count","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"name":"CastError","message":"Cast to Number failed for value \"[ 2, 1 ]\" (type Array) at path \"count\""},"order_list.0.mallPrice":{"stringValue":"\"NaN\"","valueType":"number","kind":"Number","value":null,"path":"mallPrice","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"name":"CastError","message":"Cast to Number failed for value \"NaN\" (type number) at path \"mallPrice\""},"order_list.1.count":{"stringValue":"\"[ 2, 1 ]\"","valueType":"Array","kind":"Number","value":"~order_list.0.count~value","path":"count","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"name":"CastError","message":"Cast to Number failed for value \"[ 2, 1 ]\" (type Array) at path \"count\""},"order_list.1.mallPrice":{"stringValue":"\"NaN\"","valueType":"number","kind":"Number","value":null,"path":"mallPrice","reason":{"generatedMessage":true,"code":"ERR_ASSERTION","actual":false,"expected":true,"operator":"=="},"name":"CastError","message":"Cast to Number failed for value \"NaN\" (type number) at path \"mallPrice\""}}
+_message: "OrderList validation failed"
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:47:53,869 ERROR 74187 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:48:44,065 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:49:52,737 ERROR 74187 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:50:13,663 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:50:55,888 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:51:32,167 ERROR 74187 [-/127.0.0.1/-/7ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:55:02,896 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:55:54,000 ERROR 74187 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 11:59:32,243 ERROR 74187 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 12:00:34,217 ERROR 74187 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 74187
+hostname: hemiao.local
+
+2021-07-08 12:05:52,190 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 168360ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 13:28:10,029 ERROR 84144 [-/127.0.0.1/-/21ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 13:28:59,940 ERROR 84144 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 13:54:33,823 ERROR 84144 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 13:56:54,256 ERROR 84144 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 13:59:47,308 ERROR 84144 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 14:00:18,292 ERROR 84144 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 14:01:06,679 ERROR 84144 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 14:02:41,619 ERROR 84144 [-/127.0.0.1/-/1ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 14:04:48,964 ERROR 84144 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 14:05:40,825 ERROR 84144 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 17:59:34,112 ERROR 84144 [-/127.0.0.1/-/4ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 17:59:40,630 ERROR 84144 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 18:00:40,817 ERROR 84144 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 18:01:07,288 ERROR 84144 [-/127.0.0.1/-/1ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 18:03:00,679 ERROR 84144 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 18:06:04,284 ERROR 84144 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:184:40)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 18:11:11,056 ERROR 84144 [-/127.0.0.1/-/3ms POST /v1/order] nodejs.TypeError: Cannot read property 'count' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:197:34)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 84144
+hostname: hemiao.local
+
+2021-07-08 19:01:40,928 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 277722ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-08 19:03:26,611 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 105664ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-08 20:18:10,995 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 4464363ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-08 20:35:14,358 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 935809ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-08 22:15:04,234 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 5969868ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-09 02:55:12,379 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 16808005ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+

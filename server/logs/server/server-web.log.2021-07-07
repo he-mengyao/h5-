@@ -1,0 +1,173 @@
+2021-07-07 14:49:46,631 ERROR 21503 [-/127.0.0.1/-/132ms POST /v1/address] nodejs.ValidationError: Address validation failed: name: Cast to string failed for value "{
+  name: '何苗',
+  tel: '18603048073',
+  address: '北京市北京市东城区',
+  isDefault: true,
+  province: '北京市',
+  city: '北京市',
+  county: '东城区',
+  addressDetail: '东门大桥',
+  areaCode: '110101'
+}" (type Object) at path "name"
+  name: '何苗',
+  tel: '18603048073',
+  address: '北京市北京市东城区',
+  isDefault: true,
+  province: '北京市',
+  city: '北京市',
+  county: '东城区',
+  addressDetail: '东门大桥',
+  areaCode: '110101'
+}" (type Object) at path "name"
+    at model.Document.invalidate (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:2757:32)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1324:12)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1033:16)
+    at model.Document (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:148:12)
+    at model.Model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:105:12)
+    at new model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:4902:15)
+    at OperatingGoodsController.address (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:130:29)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+errors: {"name":{"stringValue":"\"{\n  name: '何苗',\n  tel: '18603048073',\n  address: '北京市北京市东城区',\n  isDefault: true,\n  province: '北京市',\n  city: '北京市',\n  county: '东城区',\n  addressDetail: '东门大桥',\n  areaCode: '110101'\n}\"","valueType":"Object","kind":"string","value":{"name":"何苗","tel":"18603048073","address":"北京市北京市东城区","isDefault":true,"province":"北京市","city":"北京市","county":"东城区","addressDetail":"东门大桥","areaCode":"110101"},"path":"name","reason":null,"name":"CastError","message":"Cast to string failed for value \"{\n  name: '何苗',\n  tel: '18603048073',\n  address: '北京市北京市东城区',\n  isDefault: true,\n  province: '北京市',\n  city: '北京市',\n  county: '东城区',\n  addressDetail: '东门大桥',\n  areaCode: '110101'\n}\" (type Object) at path \"name\""}}
+_message: "Address validation failed"
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-07 14:50:17,835 ERROR 21503 [-/127.0.0.1/-/4ms POST /v1/address] nodejs.ValidationError: Address validation failed: name: Cast to string failed for value "{
+  name: '何苗',
+  tel: '18603048073',
+  address: '北京市北京市东城区',
+  isDefault: true,
+  province: '北京市',
+  city: '北京市',
+  county: '东城区',
+  addressDetail: '东门大桥',
+  areaCode: '110101'
+}" (type Object) at path "name"
+  name: '何苗',
+  tel: '18603048073',
+  address: '北京市北京市东城区',
+  isDefault: true,
+  province: '北京市',
+  city: '北京市',
+  county: '东城区',
+  addressDetail: '东门大桥',
+  areaCode: '110101'
+}" (type Object) at path "name"
+    at model.Document.invalidate (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:2757:32)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1324:12)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1033:16)
+    at model.Document (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:148:12)
+    at model.Model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:105:12)
+    at new model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:4902:15)
+    at OperatingGoodsController.address (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:130:29)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+errors: {"name":{"stringValue":"\"{\n  name: '何苗',\n  tel: '18603048073',\n  address: '北京市北京市东城区',\n  isDefault: true,\n  province: '北京市',\n  city: '北京市',\n  county: '东城区',\n  addressDetail: '东门大桥',\n  areaCode: '110101'\n}\"","valueType":"Object","kind":"string","value":{"name":"何苗","tel":"18603048073","address":"北京市北京市东城区","isDefault":true,"province":"北京市","city":"北京市","county":"东城区","addressDetail":"东门大桥","areaCode":"110101"},"path":"name","reason":null,"name":"CastError","message":"Cast to string failed for value \"{\n  name: '何苗',\n  tel: '18603048073',\n  address: '北京市北京市东城区',\n  isDefault: true,\n  province: '北京市',\n  city: '北京市',\n  county: '东城区',\n  addressDetail: '东门大桥',\n  areaCode: '110101'\n}\" (type Object) at path \"name\""}}
+_message: "Address validation failed"
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-07 16:02:53,214 ERROR 21503 [-/127.0.0.1/-/57ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:178:42)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:19
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-07 16:07:39,530 ERROR 21503 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:178:42)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:19
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-07 18:05:51,338 ERROR 74187 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  cid: [
+    {
+      add_time: 1625650893153,
+      check: true,
+      count: 1,
+      _id: '60e576cdeca2d621cc7b1e11',
+      uid: '60e3eaec56c63d53ff7a6d99',
+      present_price: 9.9,
+      cid: 'a632bfb3818541da8e6843d6d0dbd917',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180407172544_4503.jpg',
+      name: 'Gemez小鸡干脆面（烧烤鸡肉味）90g/袋',
+      mallPrice: 9.9,
+      __v: 0
+    }
+  ]
+}" (type Object) at path "cid" for model "ShopList"
+  cid: [
+    {
+      add_time: 1625650893153,
+      check: true,
+      count: 1,
+      _id: '60e576cdeca2d621cc7b1e11',
+      uid: '60e3eaec56c63d53ff7a6d99',
+      present_price: 9.9,
+      cid: 'a632bfb3818541da8e6843d6d0dbd917',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180407172544_4503.jpg',
+      name: 'Gemez小鸡干脆面（烧烤鸡肉味）90g/袋',
+      mallPrice: 9.9,
+      __v: 0
+    }
+  ]
+}" (type Object) at path "cid" for model "ShopList"
+    at model.Query.exec (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+messageFormat: undefined
+stringValue: "\"{\n  cid: [\n    {\n      add_time: 1625650893153,\n      check: true,\n      count: 1,\n      _id: '60e576cdeca2d621cc7b1e11',\n      uid: '60e3eaec56c63d53ff7a6d99',\n      present_price: 9.9,\n      cid: 'a632bfb3818541da8e6843d6d0dbd917',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180407172544_4503.jpg',\n      name: 'Gemez小鸡干脆面（烧烤鸡肉味）90g/袋',\n      mallPrice: 9.9,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"cid":[{"add_time":1625650893153,"check":true,"count":1,"_id":"60e576cdeca2d621cc7b1e11","uid":"60e3eaec56c63d53ff7a6d99","present_price":9.9,"cid":"a632bfb3818541da8e6843d6d0dbd917","image_path":"http://images.baixingliangfan.cn/compressedPic/20180407172544_4503.jpg","name":"Gemez小鸡干脆面（烧烤鸡肉味）90g/袋","mallPrice":9.9,"__v":0}]}
+path: "cid"
+reason: null
+valueType: "Object"
+pid: 74187
+hostname: hemiao.local
+

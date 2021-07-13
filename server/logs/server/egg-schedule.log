@@ -1,0 +1,3 @@
+2021-07-13 05:58:29,291 INFO 84143 [Timer] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 81090724ms at 2021-07-14 04:30:00.015
+2021-07-13 05:58:29,329 INFO 84144 [Job#16261271092329417776246522185] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2021-07-13 05:58:29,512 INFO 84144 [Job#16261271092329417776246522185] /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 170ms. 

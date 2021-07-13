@@ -1,0 +1,76 @@
+2021-07-06 17:54:21,356 ERROR 21503 [-/127.0.0.1/-/26ms POST /v1/addShop] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.addShop (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:61:38)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-06 18:00:15,146 ERROR 21503 [-/127.0.0.1/-/9ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:16:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-06 18:05:51,787 ERROR 21503 [-/127.0.0.1/-/5ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:16:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-06 18:07:30,126 ERROR 21503 [-/127.0.0.1/-/3ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:16:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 21503
+hostname: 192.168.0.104
+

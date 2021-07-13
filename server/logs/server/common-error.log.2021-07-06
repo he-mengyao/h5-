@@ -1,0 +1,276 @@
+2021-07-06 02:15:03,510 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6489647ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 04:03:13,448 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6489830ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 05:51:23,549 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6489918ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 07:03:12,402 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 4308761ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 07:15:07,490 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 714940ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 07:30:09,857 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 881433ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 07:45:11,086 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 901216ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 08:00:13,082 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 901219ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 08:15:15,081 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 901994ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 08:24:22,392 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 546522ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 08:27:13,534 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 129598ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 09:31:06,597 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 131912ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 12:47:05,142 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 2215735ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 12:51:22,520 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 216487ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 13:30:02,179 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 2278871ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 17:54:21,354 ERROR 21503 [-/127.0.0.1/-/26ms POST /v1/addShop] nodejs.TypeError: Cannot read property 'present_price' of null
+    at OperatingGoodsController.addShop (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:61:38)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-06 18:00:15,144 ERROR 21503 [-/127.0.0.1/-/9ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:16:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-06 18:05:51,784 ERROR 21503 [-/127.0.0.1/-/5ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:16:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-06 18:07:30,126 ERROR 21503 [-/127.0.0.1/-/3ms POST /v1/collection] nodejs.TypeError: Cannot read property 'id' of null
+    at OperatingGoodsController.collection (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:16:24)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:13
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:50
+    at async xframe (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xframe.js:7:5)
+    at async xssProtection (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/xssProtection.js:7:5)
+    at async nosniff (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/nosniff.js:8:5)
+    at async noopen (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-security@2.9.0@egg-security/lib/middlewares/noopen.js:8:5)
+    at async session (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-session@6.2.0@koa-session/index.js:41:7)
+    at async bodyParser (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-bodyparser@4.3.0@koa-bodyparser/index.js:95:5)
+    at async /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-static-cache@5.1.4@koa-static-cache/index.js:39:63
+    at async notfound (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/notfound.js:5:5)
+    at async meta (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg@2.29.4@egg/app/middleware/meta.js:17:5)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-06 19:16:53,473 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 327128ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 19:31:54,618 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 900262ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 19:46:55,841 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 901204ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 20:01:57,844 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 901217ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 20:16:59,846 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 901222ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 20:20:58,040 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 237426ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 20:35:59,615 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 880793ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 21:11:17,722 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 2117331ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-06 22:14:14,735 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 3776928ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 00:03:07,612 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6492609ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+

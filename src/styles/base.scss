@@ -1,0 +1,501 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-center {
+    justify-content: center;
+}
+
+.both {
+    justify-content: space-between;
+}
+
+.flex-b {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-a {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.col-a {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.flex-r {
+    display: flex;
+    justify-content: flex-end;
+}
+
+// 水平排向，垂直水平居中
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+// 水平排向，两边对齐
+.both-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.around-center {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+// 竖向排列，右对齐
+.col-r {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+// 竖向排列，垂直水平居中对齐
+.col-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.flex-2 {
+    flex: 2
+}
+
+.ai-c {
+    align-items: center;
+}
+
+.ai-e {
+    align-items: flex-end;
+}
+
+.ac-c {
+    align-content: center;
+}
+
+.ac-b {
+    align-content: space-between;
+}
+
+.ac-a {
+    align-content: space-around;
+}
+
+// flex换行
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+// 水平居中
+.tac {
+    text-align: center;
+}
+
+// 字体加粗
+.fw {
+    font-weight: 700;
+}
+
+.pr {
+    position: relative;
+}
+
+.pa {
+    position: absolute;
+}
+
+.pf {
+    position: fixed;
+}
+
+.f12 {
+    font-size: 12px;
+}
+
+.f14 {
+    font-size: 14px;
+}
+
+.f16 {
+    font-size: 16px;
+}
+
+.f18 {
+    font-size: 18px;
+}
+
+.f20 {
+    font-size: 20px;
+}
+
+.f24 {
+    font-size: 24px;
+}
+
+.f26 {
+    font-size: 26px;
+}
+
+.f28 {
+    font-size: 28px;
+}
+
+.f30 {
+    font-size: 30px;
+}
+
+.b0 {
+    border: 0;
+}
+
+.br {
+    border-radius: 100%;
+}
+
+input {
+    outline: none;
+}
+
+img {
+    border: 0;
+}
+
+// 多出部分，省略号显示
+.overflow {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.hidden {
+    overflow: hidden;
+}
+
+.none {
+    display: none;
+}
+
+// 圆角
+.br {
+    border-radius: 100%;
+}
+
+// 字体白色
+.cw {
+    color: #fff;
+}
+
+.cb {
+    color: #000000;
+}
+
+.bgc-w {
+    background-color: #fff;
+}
+
+.shadow {
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15);
+}
+
+html,
+body,
+#app {
+    font-size: 14px;
+    height: 100%;
+    color: #666665;
+    // background-color: #eeeeee;
+}
+
+.gray {
+    color: #666665;
+}
+
+.mrt-20 {
+    margin-top: 20px;
+}
+
+.mr-15 {
+    margin-top: 15px;
+}
+
+// 让表格边框重合
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+// 显示删除线
+.del {
+    text-decoration: line-through;
+}
+
+// 鼠标经过，显示下划线
+.a:hover {
+    text-decoration: underline;
+}
+
+// 隐藏
+.hide {
+    display: none;
+}
+
+// 显示
+.block {
+    display: block;
+}
+
+// 鼠标样式为小手
+.cursor {
+    cursor: pointer;
+}
+
+.disabled {
+    cursor: not-allowed;
+}
+
+// 外层盒子，设置display
+.box-center {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-title {
+    font-size: 14px;
+}
+
+.red {
+    color: #eb544d;
+}
+
+.bgc-red {
+    background-color: #eb544d;
+}
+
+.add {
+    width: 130px;
+    height: 48px;
+    background-color: #f08d60;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.orange {
+    background-color: #f08d60;
+}
+
+.buy {
+    width: 130px;
+    height: 48px;
+    background-color: #eb544c;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.register {
+    color: #d8d8d8;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.sku {
+    color: #999998;
+    font-size: 14px;
+}
+
+.bgc-gray {
+    background-color: #999899;
+}
+
+.bgc-e {
+    background-color: #eeeeee;
+}
+
+.marb-30 {
+    margin-bottom: 30px;
+}
+
+.mart-30 {
+    margin-top: 30px;
+}
+
+.pdl-15 {
+    padding-left: 15px;
+}
+
+.pdlr-5 {
+    padding: 0 5px;
+}
+
+.pdlr-10 {
+    padding: 0 10px;
+}
+
+.mart-10 {
+    margin-top: 10px;
+}
+
+.marb-10 {
+    margin-bottom: 10px;
+}
+
+.mar-20 {
+    margin: 20px 0;
+}
+
+.mart-5 {
+    margin-top: 5px;
+}
+
+.mrtb-10 {
+    margin: 10px 0;
+}
+
+.line {
+    height: 1px;
+    width: 100%;
+    background-color: #eeeeee;
+}
+
+.avatar {
+    height: 68px;
+    width: 68px;
+    background-color: #fff;
+    img {
+        width: 100%;
+        height: 100%;
+        border-radius: 100%;
+    }
+}
+
+.back {
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    height: 33px;
+    width: 33px;
+    background-color: #757677;
+    color: #fff;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border {
+    border: 1px solid #eeeeee;
+}
+
+input {
+    border: 0;
+}
+
+.reduce {
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    background-color: #747474;
+    color: #fff;
+    text-align: center;
+}
+
+.product-item {
+    height: 80px;
+    margin: 20px 0;
+    img {
+        height: 80px;
+        width: 80px;
+        margin: 0 30px;
+    }
+}
+
+button {
+    border: 0;
+    background-color: #fff;
+}
+
+.floor-title {
+    height: 35px;
+    line-height: 35px;
+    padding-left: 18px;
+    background-color: #fff;
+}
+
+.wh {
+    height: 100%;
+    width: 100%;
+}
+
+.h-40 {
+    height: 40px;
+    line-height: 40px;
+}
+
+.line-40 {
+    height: 40px;
+    line-height: 40px;
+    background-color: #fff;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.bb {
+    border-bottom: 1px solid #eeeeee;
+}
+
+// 顶部导航栏盒子占位
+.div {
+    height: 40px;
+}
+
+// 底部占位
+.div-b {
+    height: 50px;
+}
+
+.item-img {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+    img {
+        width: 87px;
+        height: 80px;
+        border: 1px solid #eeeeee;
+        margin-right: 10px;
+    }
+}

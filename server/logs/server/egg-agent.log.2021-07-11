@@ -1,0 +1,17 @@
+2021-07-11 03:49:13,175 INFO 84143 [egg-logrotator] agent logger reload: got log-reload message
+2021-07-11 12:00:15,095 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 29421242ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-11 15:50:52,831 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 13837618ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+

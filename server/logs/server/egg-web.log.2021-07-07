@@ -1,0 +1,67 @@
+2021-07-07 00:03:07,726 INFO 21503 [egg-logrotator] app logger reload: got log-reload message
+2021-07-07 01:51:17,308 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 01:51:17,337 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 03:39:27,236 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 03:39:27,255 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 05:27:38,229 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 05:27:38,248 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 05:27:38,373 INFO 21503 [-/127.0.0.1/-/80ms SCHEDULE /__schedule?path=/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/0p/1wqzfvj54n17c7sqpwrwv4gh0000gn/T/egg-multipart-tmp/server"
+2021-07-07 05:27:38,387 INFO 21503 [-/127.0.0.1/-/100ms SCHEDULE /__schedule?path=/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-multipart@2.12.0@egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2021-07-07 07:12:18,205 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 07:12:18,214 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 07:30:07,226 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 07:30:07,237 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 08:33:20,135 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 08:33:20,138 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 11:36:47,881 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 11:36:47,893 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 11:42:53,105 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 11:42:53,109 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 11:49:46,213 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 11:49:46,215 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 11:53:23,578 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 11:53:23,581 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 12:00:05,347 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 12:00:05,349 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 12:11:29,019 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 12:11:29,024 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 12:42:35,564 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 12:42:35,565 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 13:09:37,499 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 13:09:37,503 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 13:25:31,514 WARN 21503 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 13:25:31,518 WARN 21503 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 17:39:59,804 INFO 74187 [egg:logger] init all loggers with options: {"dir":"/Users/hemiao/Desktop/项目/h5-mall/server/logs/server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-07-07 17:39:59,835 INFO 74187 [egg-multipart] stream mode enable
+2021-07-07 17:40:00,274 INFO 74187 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2021-07-07 17:40:00,637 INFO 74187 [egg-static] starting static serve /public/ -> /Users/hemiao/Desktop/项目/h5-mall/server/app/public
+2021-07-07 17:40:00,640 INFO 74187 [egg-security] use methodnoallow middleware
+2021-07-07 17:40:00,640 INFO 74187 [egg-security] use noopen middleware
+2021-07-07 17:40:00,641 INFO 74187 [egg-security] use nosniff middleware
+2021-07-07 17:40:00,642 INFO 74187 [egg-security] use xssProtection middleware
+2021-07-07 17:40:00,643 INFO 74187 [egg-security] use xframe middleware
+2021-07-07 17:40:00,644 INFO 74187 [egg-security] use dta middleware
+2021-07-07 17:40:00,644 INFO 74187 [egg-security] compose 6 middlewares into one security middleware
+2021-07-07 17:40:00,663 INFO 74187 [egg:core] dump config after load, 5ms
+2021-07-07 17:40:00,666 INFO 74187 [egg-mongoose] starting...
+2021-07-07 17:40:00,723 INFO 74187 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2021-07-07 17:40:00,780 INFO 74187 [egg-mongoose] instance[0] start successfully
+2021-07-07 17:40:00,800 INFO 74187 [egg-watcher:application] watcher start success
+2021-07-07 17:40:00,816 INFO 74187 [egg:core] dump config after ready, 13ms
+2021-07-07 19:03:52,176 WARN 74187 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 19:03:52,180 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 19:18:52,482 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 19:33:54,483 WARN 74187 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 19:33:54,483 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 19:48:55,482 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 20:01:53,055 WARN 74187 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 20:01:53,055 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 21:21:30,364 WARN 74187 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 21:21:30,369 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 23:10:16,504 WARN 74187 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-07 23:10:16,509 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-07 23:29:00,488 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-08 01:00:19,253 WARN 74187 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2021-07-08 01:00:19,292 WARN 74187 [ClusterClient:Watcher] follower closed, and try to init it again
+2021-07-08 01:00:19,914 INFO 74187 [egg-logrotator] broadcast log-reload
+2021-07-08 01:00:19,914 INFO 74187 [egg-logrotator] rotate files success by DayRotator, files ["/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/common-error.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/common-error.log.2021-07-07","/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/server-web.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/server-web.log.2021-07-07","/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-web.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-web.log.2021-07-07","/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-schedule.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-schedule.log.2021-07-07","/Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-agent.log -> /Users/hemiao/Desktop/项目/h5-mall/server/logs/server/egg-agent.log.2021-07-07"]

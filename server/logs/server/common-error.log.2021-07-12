@@ -1,0 +1,214 @@
+2021-07-12 08:00:07,900 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 58114656ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 08:28:18,339 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 1690437ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 12:41:40,154 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 2019120ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 12:59:55,121 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 1054855ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 13:14:56,968 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 861052ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 13:17:01,076 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 83303ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 13:24:29,601 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 407734ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 13:36:04,603 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 654185ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 14:19:38,133 ERROR 84144 [-/127.0.0.1/-/15ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" (type Object) at path "cid" for model "ShopList"
+    at model.Query.exec (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+valueType: "Object"
+pid: 84144
+hostname: hemiao.local
+
+2021-07-12 14:20:59,122 ERROR 84144 [-/127.0.0.1/-/2ms POST /v1/addShop] nodejs.CastError: Cast to string failed for value "{ id: '24afea564e5248b5a2bc59da95f09911' }" (type Object) at path "cid" for model "ShopList"
+    at model.Query.exec (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+messageFormat: undefined
+stringValue: "\"{ id: '24afea564e5248b5a2bc59da95f09911' }\""
+kind: "string"
+value: {"id":"24afea564e5248b5a2bc59da95f09911"}
+path: "cid"
+reason: null
+valueType: "Object"
+pid: 84144
+hostname: hemiao.local
+
+2021-07-12 17:05:11,719 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 124942ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 18:33:55,489 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 141948ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 18:52:20,727 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 1004434ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 19:03:34,744 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 633194ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 19:06:07,692 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 132932ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 19:21:09,685 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 901202ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 19:36:11,464 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 900215ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 19:51:12,454 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 900984ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 20:06:12,686 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 900227ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 20:11:40,156 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 326689ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 20:26:43,447 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 882513ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 20:35:50,668 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 527228ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 22:02:20,574 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 5188924ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-12 23:50:30,047 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 6489419ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+
+2021-07-13 00:07:30,550 ERROR 84143 nodejs.ClusterClientNoResponseError: client no response in 1020155ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 84143
+hostname: hemiao.local
+

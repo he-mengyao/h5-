@@ -1,0 +1,365 @@
+2021-07-07 01:51:17,319 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6489619ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 03:39:27,244 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6489773ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 05:27:38,269 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6490874ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 07:12:18,207 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 6279843ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 07:30:07,251 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 1048885ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 08:33:20,136 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 3792084ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 11:36:47,863 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 466285ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 11:42:53,103 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 325141ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 11:49:46,214 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 279974ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 11:53:23,578 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 176576ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 12:00:05,345 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 361734ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 12:11:29,019 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 202825ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 12:42:35,568 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 1825744ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 13:09:37,501 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 1521125ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 13:25:31,515 ERROR 21502 nodejs.ClusterClientNoResponseError: client no response in 333886ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 21502
+hostname: 192.168.0.104
+
+2021-07-07 14:49:46,629 ERROR 21503 [-/127.0.0.1/-/132ms POST /v1/address] nodejs.ValidationError: Address validation failed: name: Cast to string failed for value "{
+  name: '何苗',
+  tel: '18603048073',
+  address: '北京市北京市东城区',
+  isDefault: true,
+  province: '北京市',
+  city: '北京市',
+  county: '东城区',
+  addressDetail: '东门大桥',
+  areaCode: '110101'
+}" (type Object) at path "name"
+  name: '何苗',
+  tel: '18603048073',
+  address: '北京市北京市东城区',
+  isDefault: true,
+  province: '北京市',
+  city: '北京市',
+  county: '东城区',
+  addressDetail: '东门大桥',
+  areaCode: '110101'
+}" (type Object) at path "name"
+    at model.Document.invalidate (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:2757:32)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1324:12)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1033:16)
+    at model.Document (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:148:12)
+    at model.Model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:105:12)
+    at new model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:4902:15)
+    at OperatingGoodsController.address (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:130:29)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+errors: {"name":{"stringValue":"\"{\n  name: '何苗',\n  tel: '18603048073',\n  address: '北京市北京市东城区',\n  isDefault: true,\n  province: '北京市',\n  city: '北京市',\n  county: '东城区',\n  addressDetail: '东门大桥',\n  areaCode: '110101'\n}\"","valueType":"Object","kind":"string","value":{"name":"何苗","tel":"18603048073","address":"北京市北京市东城区","isDefault":true,"province":"北京市","city":"北京市","county":"东城区","addressDetail":"东门大桥","areaCode":"110101"},"path":"name","reason":null,"name":"CastError","message":"Cast to string failed for value \"{\n  name: '何苗',\n  tel: '18603048073',\n  address: '北京市北京市东城区',\n  isDefault: true,\n  province: '北京市',\n  city: '北京市',\n  county: '东城区',\n  addressDetail: '东门大桥',\n  areaCode: '110101'\n}\" (type Object) at path \"name\""}}
+_message: "Address validation failed"
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-07 14:50:17,832 ERROR 21503 [-/127.0.0.1/-/4ms POST /v1/address] nodejs.ValidationError: Address validation failed: name: Cast to string failed for value "{
+  name: '何苗',
+  tel: '18603048073',
+  address: '北京市北京市东城区',
+  isDefault: true,
+  province: '北京市',
+  city: '北京市',
+  county: '东城区',
+  addressDetail: '东门大桥',
+  areaCode: '110101'
+}" (type Object) at path "name"
+  name: '何苗',
+  tel: '18603048073',
+  address: '北京市北京市东城区',
+  isDefault: true,
+  province: '北京市',
+  city: '北京市',
+  county: '东城区',
+  addressDetail: '东门大桥',
+  areaCode: '110101'
+}" (type Object) at path "name"
+    at model.Document.invalidate (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:2757:32)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1324:12)
+    at model.$set (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:1033:16)
+    at model.Document (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/document.js:148:12)
+    at model.Model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:105:12)
+    at new model (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/model.js:4902:15)
+    at OperatingGoodsController.address (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:130:29)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+errors: {"name":{"stringValue":"\"{\n  name: '何苗',\n  tel: '18603048073',\n  address: '北京市北京市东城区',\n  isDefault: true,\n  province: '北京市',\n  city: '北京市',\n  county: '东城区',\n  addressDetail: '东门大桥',\n  areaCode: '110101'\n}\"","valueType":"Object","kind":"string","value":{"name":"何苗","tel":"18603048073","address":"北京市北京市东城区","isDefault":true,"province":"北京市","city":"北京市","county":"东城区","addressDetail":"东门大桥","areaCode":"110101"},"path":"name","reason":null,"name":"CastError","message":"Cast to string failed for value \"{\n  name: '何苗',\n  tel: '18603048073',\n  address: '北京市北京市东城区',\n  isDefault: true,\n  province: '北京市',\n  city: '北京市',\n  county: '东城区',\n  addressDetail: '东门大桥',\n  areaCode: '110101'\n}\" (type Object) at path \"name\""}}
+_message: "Address validation failed"
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-07 16:02:53,212 ERROR 21503 [-/127.0.0.1/-/57ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:178:42)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:19
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-07 16:07:39,530 ERROR 21503 [-/127.0.0.1/-/2ms POST /v1/order] nodejs.TypeError: Cannot read property 'length' of undefined
+    at OperatingGoodsController.order (/Users/hemiao/Desktop/项目/h5-mall/server/app/controller/api/operatingGoods.js:178:42)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-core@4.20.0@egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at next (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:45:18)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:190:18
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:44:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@3.2.1@koa-compose/index.js:36:12
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_@eggjs_router@2.0.0@@eggjs/router/lib/router.js:195:33)
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/app/middleware/isLogin.js:15:19
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+    at /Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_egg-development@2.7.0@egg-development/app/middleware/egg_loader_trace.js:9:56
+    at dispatch (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_koa-compose@4.1.0@koa-compose/index.js:42:32)
+
+pid: 21503
+hostname: 192.168.0.104
+
+2021-07-07 18:05:51,337 ERROR 74187 [-/127.0.0.1/-/7ms POST /v1/deleteShop] nodejs.CastError: Cast to string failed for value "{
+  cid: [
+    {
+      add_time: 1625650893153,
+      check: true,
+      count: 1,
+      _id: '60e576cdeca2d621cc7b1e11',
+      uid: '60e3eaec56c63d53ff7a6d99',
+      present_price: 9.9,
+      cid: 'a632bfb3818541da8e6843d6d0dbd917',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180407172544_4503.jpg',
+      name: 'Gemez小鸡干脆面（烧烤鸡肉味）90g/袋',
+      mallPrice: 9.9,
+      __v: 0
+    }
+  ]
+}" (type Object) at path "cid" for model "ShopList"
+  cid: [
+    {
+      add_time: 1625650893153,
+      check: true,
+      count: 1,
+      _id: '60e576cdeca2d621cc7b1e11',
+      uid: '60e3eaec56c63d53ff7a6d99',
+      present_price: 9.9,
+      cid: 'a632bfb3818541da8e6843d6d0dbd917',
+      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180407172544_4503.jpg',
+      name: 'Gemez小鸡干脆面（烧烤鸡肉味）90g/袋',
+      mallPrice: 9.9,
+      __v: 0
+    }
+  ]
+}" (type Object) at path "cid" for model "ShopList"
+    at model.Query.exec (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4498:21)
+    at model.Query.Query.then (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_mongoose@5.13.0@mongoose/lib/query.js:4592:15)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+messageFormat: undefined
+stringValue: "\"{\n  cid: [\n    {\n      add_time: 1625650893153,\n      check: true,\n      count: 1,\n      _id: '60e576cdeca2d621cc7b1e11',\n      uid: '60e3eaec56c63d53ff7a6d99',\n      present_price: 9.9,\n      cid: 'a632bfb3818541da8e6843d6d0dbd917',\n      image_path: 'http://images.baixingliangfan.cn/compressedPic/20180407172544_4503.jpg',\n      name: 'Gemez小鸡干脆面（烧烤鸡肉味）90g/袋',\n      mallPrice: 9.9,\n      __v: 0\n    }\n  ]\n}\""
+kind: "string"
+value: {"cid":[{"add_time":1625650893153,"check":true,"count":1,"_id":"60e576cdeca2d621cc7b1e11","uid":"60e3eaec56c63d53ff7a6d99","present_price":9.9,"cid":"a632bfb3818541da8e6843d6d0dbd917","image_path":"http://images.baixingliangfan.cn/compressedPic/20180407172544_4503.jpg","name":"Gemez小鸡干脆面（烧烤鸡肉味）90g/袋","mallPrice":9.9,"__v":0}]}
+path: "cid"
+reason: null
+valueType: "Object"
+pid: 74187
+hostname: hemiao.local
+
+2021-07-07 19:03:52,171 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 89925ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-07 19:18:52,482 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 880284ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-07 19:33:54,485 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 901998ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-07 19:48:55,483 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 900995ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-07 20:01:53,832 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 777564ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-07 21:21:30,364 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 4756513ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-07 23:10:16,503 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 6086071ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-07 23:29:00,490 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 1123975ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
+2021-07-08 01:00:19,505 ERROR 74183 nodejs.ClusterClientNoResponseError: client no response in 5478716ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/hemiao/Desktop/项目/h5-mall/server/node_modules/_cluster-client@3.0.1@cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:555:17)
+    at processTimers (internal/timers.js:498:7)
+name: "ClusterClientNoResponseError"
+pid: 74183
+hostname: hemiao.local
+
