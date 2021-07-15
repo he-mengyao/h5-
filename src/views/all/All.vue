@@ -132,6 +132,7 @@ export default {
   },
   mounted() {
     this.getData();
+    this.active = Number(this.$route.query.index);
   },
   computed: {},
   watch: {},
@@ -140,6 +141,7 @@ export default {
 
 <style lang='scss' scoped>
 .body {
+  height: 100%;
   .nav {
     position: fixed;
     top: 0;

@@ -21,7 +21,7 @@
           <br />
           <div class="red fw">{{ `￥ ${item.present_price}` }}</div>
         </div>
-        <van-icon name="close" class="close" @click="close(item)" />
+        <van-icon name="close" class="close" @click="close(item, index)" />
       </div>
     </div>
   </div>
@@ -55,15 +55,14 @@ export default {
     back() {
       this.$router.push("/my");
     },
-    close(item) {
+    close(item, index) {
       this.$api
         .cancelCollection({
           id: item.cid,
         })
         .then((res) => {
-          // console.log(res);
           this.$toast(res.msg);
-          this.getData();
+          this.list.splice(index, 1);
         })
         .catch((err) => {
           console.log("取消收藏获取失败");

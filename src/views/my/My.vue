@@ -32,7 +32,7 @@
         v-for="(item, index) in list"
         :key="index"
         class="col-center item"
-        @click="checkLogin(item.path)"
+        @click="checkLogin({ url: item.path, index: item.index })"
       >
         <img :src="item.src" alt="" />
         {{ item.name }}
@@ -42,12 +42,12 @@
       <div
         class="both-center"
         style="margin: 0 15px"
-        @click="checkLogin(item.path)"
+        @click="checkLogin({ url: item.path, index: item.index })"
       >
         <div class="flex ai-c">
           <img :src="item.src" alt="" />{{ item.name }}
         </div>
-        >
+        <div v-if="index < list1.length - 1">></div>
       </div>
     </div>
   </div>
@@ -65,27 +65,32 @@ export default {
         {
           name: "待付款",
           src: require("../../assets/代付款.png"),
-          path: "/complete",
+          path: "/all",
+          index: 1,
         },
         {
           name: "待发货",
           src: require("../../assets/代发货.png"),
-          path: "/complete",
+          path: "/all",
+          index: 2,
         },
         {
           name: "待收货",
           src: require("../../assets/代收货.png"),
-          path: "/complete",
+          path: "/all",
+          index: 3,
         },
         {
           name: "评价",
           src: require("../../assets/评价.png"),
           path: "/assess",
+          index: 3,
         },
         {
           name: "已完成",
           src: require("../../assets/已完成.png"),
-          path: "/complete",
+          path: "/all",
+          index: 4,
         },
       ],
       list1: [
@@ -93,6 +98,7 @@ export default {
           name: "全部订单",
           src: require("../../assets/全部订单.png"),
           path: "/all",
+          index: 0,
         },
         {
           name: "收藏商品",
@@ -109,18 +115,54 @@ export default {
           src: require("../../assets/最近浏览.png"),
           path: "/current",
         },
+        {
+          name: "清除缓存",
+          src: require("../../assets/最近浏览.png"),
+          path: "",
+        },
       ],
     };
   },
   components: {},
 
   methods: {
-    go(url) {
-      if (url === "/address") {
-        // 本地存储，判断地址列表返回的路径
-        localStorage.setItem("isAddress", 111);
+    go(datas) {
+      if (datas.url !== "") {
+        if (datas.url === "/address") {
+          // 本地存储，判断地址列表返回的路径
+          localStorage.setItem("isAddress", 111);
+          this.$router.push(datas.url);
+        } else if (datas.url === "/all") {
+          this.$router.push({
+            path: "/all",
+            query: {
+              index: datas.index,
+            },
+          });
+        } else {
+          this.$router.push(datas.url);
+        }
+      } else {
+        this.$dialog
+          .confirm({
+            title: "清除缓存",
+            message: "确定清除搜索历史和浏览历史吗？",
+          })
+          .then(() => {
+            // on confirm
+            localStorage.removeItem(
+              `${JSON.parse(this.$store.state.userInfo).username}browseHistory`
+            );
+            localStorage.removeItem(
+              `${JSON.parse(this.$store.state.userInfo).username}searchHistory`
+            );
+            this.$toast("清除缓存已完成");
+          })
+          .catch(() => {
+            // on cancel
+            this.$toast("您取消了操作");
+          });
       }
-      this.$router.push(url);
     },
     login() {
       this.$router.push("/register");
@@ -139,11 +181,11 @@ export default {
       localStorage.removeItem("userInfo");
       this.$store.commit("setuserInfo", null);
     },
-    checkLogin(data) {
+    checkLogin(datas) {
       this.$utils.checkLogin({
         key: "userInfo",
         next: this.go,
-        item: data,
+        item: datas,
       });
     },
   },

@@ -10,11 +10,11 @@ export default new Vuex.Store({
         num: localStorage.getItem('num')
     },
     mutations: {
-        setCity(state, data) {
-            state.city = data
+        setCity(state, city) {
+            state.city = city
         },
-        setuserInfo(state, data) {
-            state.userInfo = data
+        setuserInfo(state, userInfo) {
+            state.userInfo = userInfo
         },
         setNum(state, num) {
             state.num = num

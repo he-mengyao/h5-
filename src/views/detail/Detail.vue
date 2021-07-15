@@ -1,124 +1,132 @@
 <template>
   <div>
-    <navs style="border: 0">
-      <template #left>
-        <div class="back">
-          <van-icon name="arrow-left" @click="back" />
+    <div v-if="Object.keys(data).length === 0"></div>
+    <div v-else>
+      <navs style="border: 0">
+        <template #left>
+          <div class="back">
+            <van-icon name="arrow-left" @click="back" />
+          </div>
+        </template>
+      </navs>
+      <div class="div"></div>
+      <div class="pdlr-10">
+        <div class="product center bgc-w bb">
+          <van-image-preview v-model="show" :images="images" @change="onChange">
+            <template v-slot:index></template>
+          </van-image-preview>
+          <van-swipe :autoplay="3000" indicator-color="#f08e60">
+            <van-swipe-item>
+              <img :src="data.image_path" alt="" @click="changeShow" />
+            </van-swipe-item>
+            <van-swipe-item>
+              <img :src="data.image_path" alt="" @click="changeShow" />
+            </van-swipe-item>
+          </van-swipe>
         </div>
-      </template>
-    </navs>
-    <div class="div"></div>
-    <div class="pdlr-10">
-      <div class="product center bgc-w bb">
-        <van-image-preview v-model="show" :images="images" @change="onChange">
-          <template v-slot:index></template>
-        </van-image-preview>
-        <van-swipe :autoplay="3000" indicator-color="#f08e60">
-          <van-swipe-item>
-            <img :src="data.image_path" alt="" @click="changeShow" />
-          </van-swipe-item>
-          <van-swipe-item>
-            <img :src="data.image_path" alt="" @click="changeShow" />
-          </van-swipe-item>
-        </van-swipe>
-      </div>
-      <div class="title f14" style="padding-top: 10px">{{ data.name }}</div>
-      <div class="price red bb" style="padding-bottom: 20px">
-        {{ `￥ ${data.present_price}` }}
-      </div>
-      <div class="flex-b line-40 sku">
-        <div>运费：0</div>
-        <div>剩余：{{ data.amount }}</div>
-        <div class="center">
-          {{ `${text}:` }}&nbsp;
-          <van-icon
-            name="like"
-            size="20"
-            @click="checkLogin(data, 1)"
-            :class="{ red: text === '取消收藏' }"
-          />
+        <div class="title f14" style="padding-top: 10px">{{ data.name }}</div>
+        <div class="price red bb" style="padding-bottom: 20px">
+          {{ `￥ ${data.present_price}` }}
         </div>
-      </div>
-      <div class="line-40 flex-b">
-        <div class="center">
-          <van-icon name="shop-o" size="20" />&nbsp; 有赞的店&nbsp;
-          <div class="bgc-red cw official center f12">官方</div>
+        <div class="flex-b line-40 sku">
+          <div>运费：0</div>
+          <div>剩余：{{ data.amount }}</div>
+          <div class="center">
+            {{ `${text}:` }}&nbsp;
+            <van-icon
+              name="like"
+              size="20"
+              @click="checkLogin(data, 1)"
+              :class="{ red: text === '取消收藏' }"
+            />
+          </div>
         </div>
-        <div>
-          进入店铺
-          <van-icon name="arrow" />
+        <div class="line-40 flex-b">
+          <div class="center">
+            <van-icon name="shop-o" size="20" />&nbsp; 有赞的店&nbsp;
+            <div class="bgc-red cw official center f12">官方</div>
+          </div>
+          <div>
+            进入店铺
+            <van-icon name="arrow" />
+          </div>
         </div>
-      </div>
-      <div class="line-40">
-        <van-tabs v-model="active" title-active-color="#ec5851">
-          <van-tab title="商品详情">
-            <div style="line-height: 0">
-              <div v-html="data.detail"></div>
-            </div>
-          </van-tab>
-          <van-tab title="商品评论">商品评论</van-tab>
-        </van-tabs>
-      </div>
-      <van-goods-action>
-        <van-goods-action-icon icon="chat-o" text="客服" />
-        <van-goods-action-icon icon="shop-o" text="店铺" />
-        <van-goods-action-button
-          type="warning"
-          text="加入购物车"
-          @click="checkLogin(data.id, 2)"
-        />
-        <van-goods-action-button
-          type="danger"
-          text="立即购买"
-          square
-          @click="shop(data)"
-        />
-      </van-goods-action>
-      <van-popup
-        v-model="show1"
-        closeable
-        position="bottom"
-        :style="{ height: '35%' }"
-      >
-        <div class="content">
-          <div class="bd">
-            <div class="flex content1">
-              <img :src="data.image_path" alt="" class="border" />
-              <div class="pdl-15">
-                <div class="name">{{ data.name }}</div>
-                <div class="red">{{ `￥ ${data.present_price}` }}</div>
+        <div class="line-40">
+          <van-tabs v-model="active" title-active-color="#ec5851">
+            <van-tab title="商品详情">
+              <div style="line-height: 0">
+                <div v-html="data.detail"></div>
               </div>
-            </div>
-            <van-divider />
-            <div class="flex f12">
-              <div style="margin-right: 30px">
-                <div>购买数量：</div>
-                <div>
-                  剩余：{{ data.amount }}件<span class="red"
-                    >&nbsp;每人限购50件</span
-                  >
+            </van-tab>
+            <van-tab title="商品评论">商品评论</van-tab>
+          </van-tabs>
+        </div>
+        <van-goods-action>
+          <van-goods-action-icon icon="chat-o" text="客服" />
+          <van-goods-action-icon
+            icon="shopping-cart-o"
+            text="购物车"
+            @click="goCart"
+            :badge="badge"
+          />
+          <van-goods-action-button
+            type="warning"
+            text="加入购物车"
+            @click="checkLogin(data.id, 2)"
+          />
+          <van-goods-action-button
+            type="danger"
+            text="立即购买"
+            square
+            @click="shop(data)"
+          />
+        </van-goods-action>
+        <van-popup
+          v-model="show1"
+          closeable
+          position="bottom"
+          :style="{ height: '35%' }"
+        >
+          <div class="content">
+            <div class="bd">
+              <div class="flex content1">
+                <img :src="data.image_path" alt="" class="border" />
+                <div class="pdl-15">
+                  <div class="name">{{ data.name }}</div>
+                  <div class="red">{{ `￥ ${data.present_price}` }}</div>
                 </div>
               </div>
-              <div>
-                <van-stepper
-                  v-model="value"
-                  integer
-                  min="1"
-                  max="50"
-                  @change="change"
-                />
+              <van-divider />
+              <div class="flex f12">
+                <div style="margin-right: 30px">
+                  <div>购买数量：</div>
+                  <div>
+                    剩余：{{ data.amount }}件<span class="red"
+                      >&nbsp;每人限购50件</span
+                    >
+                  </div>
+                </div>
+                <div>
+                  <van-stepper
+                    v-model="value"
+                    integer
+                    min="1"
+                    max="50"
+                    @change="change"
+                  />
+                </div>
               </div>
+              <van-divider />
             </div>
-            <van-divider />
+            <van-button
+              color="#ec554c"
+              style="width: 100%"
+              @click="checkLogin(data, 3)"
+              >立即购买</van-button
+            >
           </div>
-          <van-button
-            color="#ec554c"
-            style="width: 100%"
-            @click="checkLogin(data, 3)"
-            >立即购买</van-button
-          >
-        </div>
-      </van-popup>
+        </van-popup>
+      </div>
     </div>
   </div>
 </template>
@@ -147,19 +155,29 @@ export default {
       this.$api
         .goods(id)
         .then((res) => {
-          this.data = res.goods.goodsOne;
-          this.images.push(this.data.image);
-          this.images.push(this.data.image);
-          // console.log(this.data);
-          this.$utils.saveHistory({
-            key: "browse",
-            data: this.data,
-            attr: "id",
-          });
+          if (!res.goods.goodsOne) {
+            this.$toast("商品已售完");
+            this.$router.push("/");
+          } else {
+            this.data = res.goods.goodsOne;
+            this.images.push(this.data.image);
+            this.images.push(this.data.image);
+            // console.log(this.data);
+            this.$utils.saveHistory({
+              username: JSON.parse(this.$store.state.userInfo).username,
+              key: "browse",
+              data: this.data,
+              attr: "id",
+            });
+          }
         })
         .catch((err) => {
           console.log("请求失败", err);
         });
+    },
+    // 去往购物车
+    goCart() {
+      this.$router.push("/shopcar");
     },
     // 返回
     back() {
@@ -300,7 +318,17 @@ export default {
       this.text = "收藏商品";
     }
   },
-  computed: {},
+  computed: {
+    badge() {
+      if (localStorage.getItem("userInfo")) {
+        if (this.$store.state.num <= 0) {
+          return "";
+        } else {
+          return this.$store.state.num;
+        }
+      }
+    },
+  },
   watch: {
     value(val) {
       if (val >= 50) {

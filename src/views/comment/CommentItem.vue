@@ -62,6 +62,7 @@ export default {
     back() {
       this.$router.push("/assess");
     },
+    // 获取评价详情
     getData() {
       this.$api
         .evaluateOne({
@@ -71,13 +72,16 @@ export default {
         .then((res) => {
           if (res.code === 200) {
             this.obj = res.evaluateOne;
-            this.nickname = this.obj.user[0].nickname;
+            if (res.evaluateOne.anonymous !== true) {
+              this.nickname = this.obj.user[0].nickname;
+            }
           }
         })
         .catch((err) => {
           console.log("获取单条评论失败");
         });
     },
+    // 加入购物车
     addCart(item) {
       this.$api
         .addShop(item.id)

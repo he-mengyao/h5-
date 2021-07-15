@@ -8,15 +8,20 @@
     <div class="div"></div>
     <div>
       <shopcar-1 v-if="userInfo === null"></shopcar-1>
-      <shopcar-2
-        v-else-if="shopList.length === 0 && userInfo !== null"
-      ></shopcar-2>
       <div v-else>
-        <shopcar-3
-          :shopList="shopList"
-          v-if="shopList.length !== 0"
-          @del="del"
-        ></shopcar-3>
+        <div v-if="isLoading"><loading></loading></div>
+        <div v-else>
+          <shopcar-2
+            v-if="shopList.length === 0 && userInfo !== null"
+          ></shopcar-2>
+          <div v-else>
+            <shopcar-3
+              :shopList="shopList"
+              v-if="shopList.length !== 0"
+              @del="del"
+            ></shopcar-3>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -35,6 +40,7 @@ export default {
       title: "购物车",
       shopList: [],
       userInfo: null,
+      isLoading: true,
     };
   },
   components: { Navs, Shopcar1, Shopcar2, Shopcar3 },
@@ -44,6 +50,7 @@ export default {
         .getCard()
         .then((res) => {
           if (res.code === 200) {
+            this.isLoading = false;
             this.shopList = res.shopList;
             // console.log(this.shopList);
             localStorage.setItem("num", this.shopList.length);
@@ -55,7 +62,9 @@ export default {
         });
     },
     del() {
-      this.getCard();
+      this.shopList = this.shopList.filter((item) => {
+        return item.check !== true;
+      });
     },
   },
   mounted() {

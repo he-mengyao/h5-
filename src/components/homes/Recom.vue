@@ -7,6 +7,7 @@
           class="item col-center"
           v-for="(item, index) in recommend"
           :key="index"
+          @click="detail(item.goodsId, item)"
         >
           <img :src="item.image" alt="" />
           <div style="width: 120px; height: 18px" class="overflow">
@@ -18,12 +19,10 @@
             <div class="del sku">{{ `￥${item.price}` }}</div>
           </div>
           <div class="flex cw shopping hidden mart-10">
-            <button class="shop center" @click="checkLogin(item.goodsId)">
+            <button class="shop center" @click.stop="checkLogin(item.goodsId)">
               <van-icon name="cart" />
             </button>
-            <button class="look" @click="detail(item.goodsId, item)">
-              查看详情
-            </button>
+            <button class="look">查看详情</button>
           </div>
         </div>
       </div>
@@ -54,6 +53,7 @@ export default {
             click: true,
             scrollX: true,
             scrollY: false,
+            eventPassthrough: "vertical", // 点击可以滑动
           });
         } else {
           this.scroll.refresh(); //如果dom结构发生改变调用该方法

@@ -19,10 +19,11 @@ export default {
                 });
         }
     },
-    saveHistory({ key, data, attr }) {
-        let name = key + 'History'
+    saveHistory({ username, key, data, attr }) {
+        let name = username + key + 'History' // 名字规范
         let history = localStorage.getItem(name)
         if (history) {
+            // 如果存在
             let arr = JSON.parse(localStorage.getItem(name))
             let item = null
             if (typeof data === 'string') {
@@ -60,8 +61,8 @@ export default {
             localStorage.setItem(name, JSON.stringify(arr))
         }
     },
-    getHistory({ key }) {
-        let name = key + 'History'
+    getHistory({ username, key }) {
+        let name = username + key + 'History'
         let arr = localStorage.getItem(name)
         if (arr) return JSON.parse(arr)
         else return null

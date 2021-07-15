@@ -157,16 +157,6 @@ const routes = [{
         }
     },
     {
-        path: '/complete',
-        name: 'complete',
-        component: () =>
-            import ('../views/complete/Complete.vue'),
-        meta: {
-            title: '已完成',
-            index: '/complete'
-        }
-    },
-    {
         path: '/comment',
         name: 'comment',
         component: () =>
@@ -183,7 +173,7 @@ const routes = [{
             import ('../views/comment/CommentItem.vue'),
         meta: {
             title: '评价详情',
-            index: '/commcommentitement'
+            index: '/commentitem'
         }
     },
 
@@ -197,7 +187,28 @@ const router = new VueRouter({
 
 router.beforeEach((to, from, next) => {
     document.title = to.meta.title
-    next()
+    if (!localStorage.getItem('userInfo')) {
+        switch (to.path) {
+            case '/settle':
+            case '/address':
+            case '/collect':
+            case '/assess':
+            case '/saveUser':
+            case '/addaddress':
+            case '/all':
+            case '/collect':
+            case '/current':
+            case '/comment':
+            case '/commentitem':
+                next('/')
+                break;
+            default:
+                next()
+                break;
+        }
+    } else {
+        next()
+    }
 })
 
 export default router

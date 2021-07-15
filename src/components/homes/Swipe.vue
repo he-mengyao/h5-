@@ -37,7 +37,6 @@ export default {
 .swipe {
   width: 375px;
   height: 200px;
-  background-color: pink;
   .van-swipe {
     height: 100%;
     width: 100%;

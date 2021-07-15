@@ -122,28 +122,39 @@ export default {
       // console.log(this.shopList);
     },
     del(arr) {
-      let arr1 = [];
-      // 得到选中的数据，将cid组成一个数组
-      arr.map((item) => {
-        arr1.push(item.cid);
-      });
-      this.$api
-        .deleteShop(arr1)
-        .then((res) => {
-          if (res.code === 200) {
-            this.$toast(res.msg);
-            // 将删除这个操作传给父组件
-            this.$emit("del", true);
-            // 将本地存储和 vuex的下标进行改变
-            let num = this.shopList.filter((item) => {
-              return item.check !== true;
-            }).length;
-            localStorage.setItem("num", num);
-            this.$store.commit("setNum", num);
-          }
+      this.$dialog
+        .confirm({
+          title: "购物车删除",
+          message: "您确定删除商品吗？",
         })
-        .catch((err) => {
-          console.log("删除商品请求失败");
+        .then(() => {
+          // on confirm
+          let arr1 = [];
+          // 得到选中的数据，将cid组成一个数组
+          arr.map((item) => {
+            arr1.push(item.cid);
+          });
+          this.$api
+            .deleteShop(arr1)
+            .then((res) => {
+              if (res.code === 200) {
+                this.$toast(res.msg);
+                let num = this.shopList.filter((item) => {
+                  return item.check !== true;
+                }).length;
+                // 将删除这个操作传给父组件
+                this.$emit("del", true);
+                // 将本地存储和 vuex的下标进行改变
+                localStorage.setItem("num", num);
+                this.$store.commit("setNum", num);
+              }
+            })
+            .catch((err) => {
+              console.log("删除商品请求失败");
+            });
+        })
+        .catch(() => {
+          // on cancel
         });
     },
     settle() {

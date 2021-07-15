@@ -8,11 +8,13 @@ import api from './http/api'
 import navs from './components/navs/Navs.vue'
 import tabbar from './components/tabbar/Tabbar.vue'
 import utils from './utils/index'
+import loading from './components/loading/Loading.vue'
 
 // 挂载成全局变量
 Vue.prototype.$utils = utils
 Vue.component('navs', navs)
 Vue.component('tabbar', tabbar)
+Vue.component('loading', loading)
 
 Vue.prototype.$api = api
 

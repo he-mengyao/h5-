@@ -13,7 +13,7 @@
     <div class="assess-title hidden">
       <van-tabs v-model="active" sticky>
         <van-tab title="待评价">
-          <van-pull-refresh v-model="refreshing">
+          <van-pull-refresh v-model="refreshing" disabled>
             <van-list
               v-model="loading"
               :finished="finished"
@@ -44,7 +44,7 @@
           </van-pull-refresh>
         </van-tab>
         <van-tab title="已评价">
-          <van-pull-refresh v-model="refreshing">
+          <van-pull-refresh v-model="refreshing" disabled>
             <van-list
               v-model="loading"
               :finished="finished"
@@ -156,10 +156,10 @@ export default {
     // 待评价下拉加载
     onLoad() {
       setTimeout(() => {
-        if (this.refreshing) {
-          this.list = [];
-          this.refreshing = false;
-        }
+        // if (this.refreshing) {
+        //   this.list = [];
+        //   this.refreshing = false;
+        // }
         this.page1++;
         this.tobeEvaluated();
         this.loading = false;

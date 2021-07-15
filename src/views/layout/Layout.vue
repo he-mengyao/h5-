@@ -12,7 +12,9 @@ export default {
   name: "",
   props: {},
   data() {
-    return {};
+    return {
+      list: [],
+    };
   },
   components: { Tabbar, Navs },
   methods: {},

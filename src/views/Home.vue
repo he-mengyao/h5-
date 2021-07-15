@@ -1,112 +1,119 @@
 <template>
   <div class="box f14">
-    <!-- 导航 -->
-    <navs class="navs hidden">
-      <template #left>
-        <div class="center" @click="location(city)">
-          <div>{{ currentCity ? currentCity : "定位中" }}</div>
-          &nbsp;
-          <van-icon name="arrow-down" />
-        </div>
-      </template>
-      <template #middle>
-        <div>
-          <van-search
-            v-model="value"
-            placeholder="请输入搜索关键词"
-            style="width: 270px; margin-left: 10px"
-            @focus="focus(value)"
-          />
-        </div>
-      </template>
-      <template #right>
-        <div v-if="!flag" @click="cancel">{{ text }}</div>
-      </template>
-    </navs>
-    <div style="height: 40px"></div>
-    <div>
-      <div v-if="flag">
-        <!-- 轮播图 -->
-        <swipe v-if="data.slides" :slides="data.slides" class="mart-5"></swipe>
-        <!-- 分类 -->
-        <categ v-if="data.category" :category="data.category"></categ>
-        <!-- 广告 -->
-        <div class="adpic">
-          <img :src="adpic" alt="" />
-        </div>
-        <!-- 推荐商品 -->
-        <recom v-if="data.recommend" :recommend="data.recommend"></recom>
-        <!-- 楼层商品 -->
-        <floor
-          v-if="data.floor1"
-          :floor="data.floor1"
-          :floortitle="data.floorName.floor1"
-        >
-          <template #floor>
-            <div class="floors center">1F</div>
-          </template>
-        </floor>
-        <floor
-          v-if="data.floor2"
-          :floor="data.floor2"
-          :floortitle="data.floorName.floor2"
-        >
-          <template #floor>
-            <div class="floors center">2F</div>
-          </template>
-        </floor>
-        <floor
-          v-if="data.floor3"
-          :floor="data.floor3"
-          :floortitle="data.floorName.floor3"
-        >
-          <template #floor>
-            <div class="floors center">3F</div>
-          </template>
-        </floor>
-        <!-- 热销商品 -->
-        <hots-product
-          v-if="data.hotGoods"
-          :hotsProduct="data.hotGoods"
-        ></hots-product>
-      </div>
-      <!-- 搜索 -->
-      <div v-else>
-        <div>
-          <!-- 显示历史记录 -->
-          <div v-if="value === ''">
-            <div class="flex-b h-40 pdlr-10">
-              <div>搜索</div>
-              <van-icon name="delete-o" @click="del" />
-            </div>
-            <div
-              class="line-40 flex ai-c wrap"
-              style="padding-left: 10px; border: 0"
-            >
-              <button
-                v-for="(item, index) in historyArr"
-                :key="index"
-                class="center"
-                @click="clickHistory(item.name)"
-              >
-                {{ item.name }}
-              </button>
-            </div>
+    <div v-if="isLoading"><loading></loading></div>
+    <div v-else>
+      <!-- 导航 -->
+      <navs class="navs hidden">
+        <template #left>
+          <div class="center" @click="location(city)">
+            <div>{{ currentCity ? currentCity : "定位中" }}</div>
+            &nbsp;
+            <van-icon name="arrow-down" />
           </div>
-          <!-- 显示匹配列表 -->
-          <div v-else>
-            <div
-              @click="detail(item.id, value)"
-              class="searchlist"
-              v-for="(item, index) in searchList"
-              :key="index"
-              v-html="
-                item.name.replace(
-                  value,
-                  `<span style='color:#eb3323'}>${value}</span>`
-                )
-              "
-            ></div>
+        </template>
+        <template #middle>
+          <div>
+            <van-search
+              v-model="value"
+              placeholder="请输入搜索关键词"
+              style="width: 270px; margin-left: 10px"
+              @focus="focus(value)"
+            />
+          </div>
+        </template>
+        <template #right>
+          <div v-if="!flag" @click="cancel">{{ text }}</div>
+        </template>
+      </navs>
+      <div style="height: 40px"></div>
+      <div>
+        <div v-if="flag">
+          <!-- 轮播图 -->
+          <swipe
+            v-if="data.slides"
+            :slides="data.slides"
+            class="mart-5"
+          ></swipe>
+          <!-- 分类 -->
+          <categ v-if="data.category" :category="data.category"></categ>
+          <!-- 广告 -->
+          <div class="adpic">
+            <img :src="adpic" alt="" />
+          </div>
+          <!-- 推荐商品 -->
+          <recom v-if="data.recommend" :recommend="data.recommend"></recom>
+          <!-- 楼层商品 -->
+          <floor
+            v-if="data.floor1"
+            :floor="data.floor1"
+            :floortitle="data.floorName.floor1"
+          >
+            <template #floor>
+              <div class="floors center">1F</div>
+            </template>
+          </floor>
+          <floor
+            v-if="data.floor2"
+            :floor="data.floor2"
+            :floortitle="data.floorName.floor2"
+          >
+            <template #floor>
+              <div class="floors center">2F</div>
+            </template>
+          </floor>
+          <floor
+            v-if="data.floor3"
+            :floor="data.floor3"
+            :floortitle="data.floorName.floor3"
+          >
+            <template #floor>
+              <div class="floors center">3F</div>
+            </template>
+          </floor>
+          <!-- 热销商品 -->
+          <hots-product
+            v-if="data.hotGoods"
+            :hotsProduct="data.hotGoods"
+          ></hots-product>
+        </div>
+        <!-- 搜索 -->
+        <div v-else>
+          <div>
+            <!-- 显示历史记录 -->
+            <div v-if="value === ''">
+              <div class="flex-b h-40 pdlr-10">
+                <div>搜索</div>
+                <van-icon name="delete-o" @click="del" />
+              </div>
+              <div
+                class="line-40 flex ai-c wrap"
+                style="padding-left: 10px; border: 0"
+              >
+                <button
+                  v-for="(item, index) in historyArr"
+                  :key="index"
+                  class="center"
+                  @click="clickHistory(item.name)"
+                >
+                  {{ item.name }}
+                </button>
+              </div>
+            </div>
+            <!-- 显示匹配列表 -->
+            <div v-else>
+              <div
+                @click="detail(item.id, value)"
+                class="searchlist"
+                v-for="(item, index) in searchList"
+                :key="index"
+                v-html="
+                  item.name.replace(
+                    value,
+                    `<span style='color:#eb3323'}>${value}</span>`
+                  )
+                "
+              ></div>
+            </div>
           </div>
         </div>
       </div>
@@ -121,8 +128,9 @@ import Categ from "../components/homes/Categ.vue";
 import Recom from "../components/homes/Recom.vue";
 import Floor from "../components/homes/Floor.vue";
 import HotsProduct from "../components/homes/hotsProduct.vue";
+
 export default {
-  name: "",
+  name: "home",
   props: {},
   data() {
     return {
@@ -134,6 +142,7 @@ export default {
       searchList: [],
       flag: true,
       historyArr: [],
+      isLoading: true,
     };
   },
   components: {
@@ -157,10 +166,15 @@ export default {
       this.$api
         .recommend()
         .then((res) => {
-          this.data = res.data;
-          // console.log(this.data);
-          this.adpic = this.data.advertesPicture.PICTURE_ADDRESS;
-          localStorage.setItem("category", JSON.stringify(this.data.category));
+          if (res.code === 200) {
+            this.isLoading = false;
+            this.data = res.data;
+            this.adpic = this.data.advertesPicture.PICTURE_ADDRESS;
+            localStorage.setItem(
+              "category",
+              JSON.stringify(this.data.category)
+            );
+          }
         })
         .catch((err) => {
           console.log(err, "请求失败");
@@ -217,6 +231,7 @@ export default {
       this.$router.push("/detail");
       localStorage.setItem("id", id);
       this.$utils.saveHistory({
+        username: JSON.parse(this.$store.state.userInfo).username,
         key: "search",
         data: value,
         attr: "name",
@@ -236,9 +251,16 @@ export default {
     if (!this.currentCity) {
       this.getLocation();
     }
-    this.historyArr = this.$utils.getHistory({
-      key: "search",
-    });
+    // 如果用户登录显示搜索记录
+    if (this.$store.state.userInfo) {
+      let a = this.$utils.getHistory({
+        username: JSON.parse(this.$store.state.userInfo).username,
+        key: "search",
+      });
+      if (a) {
+        this.historyArr = a;
+      }
+    }
   },
   computed: {
     currentCity() {

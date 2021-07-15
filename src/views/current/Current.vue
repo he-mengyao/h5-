@@ -48,7 +48,10 @@ export default {
     },
     close(index) {
       this.list.splice(index, 1);
-      localStorage.setItem("browseHistory", JSON.stringify(this.list));
+      localStorage.setItem(
+        `${JSON.parse(this.$store.state.userInfo).username}browseHistory`,
+        JSON.stringify(this.list)
+      );
     },
     go(item) {
       localStorage.setItem("id", item.id);
@@ -56,10 +59,13 @@ export default {
     },
   },
   mounted() {
-    this.list = this.$utils.getHistory({
-      key: "browse",
+    let a = this.$utils.getHistory({
+      username: JSON.parse(this.$store.state.userInfo).username,
+      key: `browse`,
     });
-    console.log(this.list);
+    if (a) {
+      this.list = a;
+    }
   },
   computed: {},
   watch: {},

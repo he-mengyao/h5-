@@ -59,6 +59,7 @@ export default {
           if (res.code === 200) {
             this.$toast(res.msg);
             this.$router.push("/address");
+            localStorage.removeItem("text");
           }
         })
         .catch((err) => {
@@ -95,6 +96,7 @@ export default {
       this.flag = false;
     } else {
       this.addressinfo = JSON.parse(localStorage.getItem("address"));
+      console.log(11);
     }
   },
   computed: {},
